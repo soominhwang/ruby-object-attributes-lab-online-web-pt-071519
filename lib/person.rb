@@ -12,7 +12,7 @@ class Person
     @job=job_name
   end
 
-  def job 
+  def job
     @job
   end
 #Give a Dog a breed: #breed that read
