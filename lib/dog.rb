@@ -1,8 +1,8 @@
 class Dog
   #Give a Dog a Name: #name that read
-#  def name
-#    @name=name
-#  end
+  def name
+    @name=name
+  end
 
   #Give a Dog a Name: #name= that write to a corresponding instance variable @name.
 #  def name=(new_name)
