@@ -5,7 +5,7 @@ class Dog
   end
 
   def name
-    dog_name
+    puts dog_name
   end
 
 
