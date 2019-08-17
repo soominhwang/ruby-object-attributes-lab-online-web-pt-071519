@@ -4,10 +4,9 @@ class Dog
     @name=dog_name
   end
 
-  #Give a Dog a Name: #name that read
-#  def name
-#    @name=name
-#  end
+  def name
+    @name=name
+  end
 
 
 #Give a Dog a breed: #breed that read
